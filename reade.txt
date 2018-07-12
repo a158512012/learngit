@@ -1,3 +1,2 @@
-git is 啊
-
-啥都会尽快ad啊
+Git is a distributed version control system.
+Git is free software.
